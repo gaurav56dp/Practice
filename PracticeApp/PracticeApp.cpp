@@ -25,7 +25,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("Hello World\n");
-	Binary(1);
+	Binary(2);
 	printf("done......\n");
 	return 0;
 }
